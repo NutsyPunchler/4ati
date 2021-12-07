@@ -72,7 +72,7 @@ Dillinger uses a number of open source projects to work properly:
 
 [Wireframe the main form][wireframeMain]
 
- [form]: 
+ [form]: https://github.com/Michal3456/4ati/blob/main/11/Sprites/Layout.jpg
 
  [db]: 
 
