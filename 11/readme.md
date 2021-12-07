@@ -24,8 +24,8 @@ The project concerns a system that allows for the booking tables.
 ## Main functionalities
 
 1. relational database based on SQL language
-1. frot-end created in JavaScript and CSS technologies
-1. back-end executed in PHP language and auxiliary scripts
+2. frot-end created in JavaScript and CSS technologies
+3. back-end executed in PHP language and auxiliary scripts
 
 The above functionalities are tested and work according to their roles.
 
