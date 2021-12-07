@@ -78,4 +78,4 @@ Dillinger uses a number of open source projects to work properly:
 
  [wireframeExample]: https://github.com/Michal3456/4ati/blob/main/11/Sprites/wireframe%20subpage_simple.jpg
  
- [wireframeMain]: 
+ [wireframeMain]: https://github.com/Michal3456/4ati/blob/main/11/Sprites/a_wireframe_subpage_with_the_main_application_form.jpg
