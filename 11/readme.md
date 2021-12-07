@@ -74,7 +74,7 @@ Dillinger uses a number of open source projects to work properly:
 
  [form]: https://github.com/Michal3456/4ati/blob/main/11/Sprites/Layout.jpg
 
- [db]: 
+ [db]: https://github.com/Michal3456/4ati/blob/main/11/Sprites/diagram.jpg
 
  [wireframeExample]: 
  
